@@ -1,0 +1,20 @@
+C:\Users\José\Desktop\Ado.Net_Peliculas\Ado.Net_Peliculas\bin\Debug\Ado.Net_Peliculas.exe.config
+C:\Users\José\Desktop\Ado.Net_Peliculas\Ado.Net_Peliculas\bin\Debug\Ado.Net_Peliculas.exe
+C:\Users\José\Desktop\Ado.Net_Peliculas\Ado.Net_Peliculas\bin\Debug\Ado.Net_Peliculas.pdb
+C:\Users\José\Desktop\Ado.Net_Peliculas\Ado.Net_Peliculas\obj\Debug\Ado.Net_Peliculas.csprojResolveAssemblyReference.cache
+C:\Users\José\Desktop\Ado.Net_Peliculas\Ado.Net_Peliculas\obj\Debug\Ado.Net_Peliculas.frmMenu.resources
+C:\Users\José\Desktop\Ado.Net_Peliculas\Ado.Net_Peliculas\obj\Debug\Ado.Net_Peliculas.Properties.Resources.resources
+C:\Users\José\Desktop\Ado.Net_Peliculas\Ado.Net_Peliculas\obj\Debug\Ado.Net_Peliculas.csproj.GenerateResource.Cache
+C:\Users\José\Desktop\Ado.Net_Peliculas\Ado.Net_Peliculas\obj\Debug\Ado.Net_Peliculas.exe
+C:\Users\José\Desktop\Ado.Net_Peliculas\Ado.Net_Peliculas\obj\Debug\Ado.Net_Peliculas.pdb
+C:\Users\José\Desktop\Ado.Net_Peliculas\Ado.Net_Peliculas\obj\Debug\Ado.Net_Peliculas.frmPelicula.resources
+C:\Users\José\Documents\José\UTN\Programación II\Prácticos\Práctico Final\Ado.Net_Peliculas\Ado.Net_Peliculas\bin\Debug\Ado.Net_Peliculas.exe.config
+C:\Users\José\Documents\José\UTN\Programación II\Prácticos\Práctico Final\Ado.Net_Peliculas\Ado.Net_Peliculas\obj\Debug\Ado.Net_Peliculas.exe
+C:\Users\José\Documents\José\UTN\Programación II\Prácticos\Práctico Final\Ado.Net_Peliculas\Ado.Net_Peliculas\obj\Debug\Ado.Net_Peliculas.pdb
+C:\Users\José\Documents\José\UTN\Programación II\Prácticos\Práctico Final\Ado.Net_Peliculas\Ado.Net_Peliculas\bin\Debug\Ado.Net_Peliculas.exe
+C:\Users\José\Documents\José\UTN\Programación II\Prácticos\Práctico Final\Ado.Net_Peliculas\Ado.Net_Peliculas\bin\Debug\Ado.Net_Peliculas.pdb
+C:\Users\José\Documents\José\UTN\Programación II\Prácticos\Práctico Final\Ado.Net_Peliculas\Ado.Net_Peliculas\obj\Debug\Ado.Net_Peliculas.csprojResolveAssemblyReference.cache
+C:\Users\José\Documents\José\UTN\Programación II\Prácticos\Práctico Final\Ado.Net_Peliculas\Ado.Net_Peliculas\obj\Debug\Ado.Net_Peliculas.frmMenu.resources
+C:\Users\José\Documents\José\UTN\Programación II\Prácticos\Práctico Final\Ado.Net_Peliculas\Ado.Net_Peliculas\obj\Debug\Ado.Net_Peliculas.frmPelicula.resources
+C:\Users\José\Documents\José\UTN\Programación II\Prácticos\Práctico Final\Ado.Net_Peliculas\Ado.Net_Peliculas\obj\Debug\Ado.Net_Peliculas.Properties.Resources.resources
+C:\Users\José\Documents\José\UTN\Programación II\Prácticos\Práctico Final\Ado.Net_Peliculas\Ado.Net_Peliculas\obj\Debug\Ado.Net_Peliculas.csproj.GenerateResource.Cache
